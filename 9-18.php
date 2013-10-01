@@ -1,5 +1,5 @@
 <?php
-
+//Return the sum of all even numbers in a fibonacci sequence up to a given integer
 function fib_even($max) {
 	$fib1 = 0;
 	$fib2 = 1;

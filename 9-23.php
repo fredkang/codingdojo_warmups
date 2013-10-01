@@ -1,5 +1,5 @@
 <?php
-
+	//given an integer, return the next integer that, as a string, is a palindrome
 	function next_pali($x) {
 		$current = $x;
 

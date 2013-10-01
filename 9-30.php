@@ -1,4 +1,5 @@
 <?php
+//Given two numbers "a b", return the a to the power of b
 function powerAB($string) {
 
 	$intArray = explode(" ", $string);

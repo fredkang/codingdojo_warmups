@@ -1,4 +1,5 @@
 <?php
+	//return true if an array is order in increasing order
 	function larger($array) {
 		if(count($array)<=1) {
 			return true;

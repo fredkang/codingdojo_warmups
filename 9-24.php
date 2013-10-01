@@ -1,4 +1,5 @@
 <?php
+//Reverse a string
 function reverse ($string) {
 
 	$array = str_split($string);
